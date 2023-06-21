@@ -13,6 +13,6 @@ public class ejercicio1_3 {
 		
 		System.out.println("El área del circulo es: " + areaCirculo + " m^2");
 		
-		input.close(); //recordar cerrar el input//
+		input.close();
 	}
 }
